@@ -3,3 +3,5 @@
 *.usd
 *.usda
 **/frames/
+~$*
+.DS_Store
